@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Carte des clubs FFBB IDF</title>
+    <meta
+      name="description"
+      content="Carte interactive des clubs engagés dans les championnats régionaux 5x5 de la Ligue Île-de-France FFBB."
+    />
+    <link rel="preconnect" href="https://unpkg.com" />
+    <link rel="preconnect" href="https://tile.openstreetmap.org" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQkTk3MJtQqNxlr3YbMntD1xB3zXxE="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Ligue Île-de-France FFBB</p>
+        <h1>Carte des clubs régionaux 5x5</h1>
+        <p class="subtitle">
+          Sélectionne un niveau, un championnat ou une ou plusieurs poules pour afficher les clubs correspondants.
+        </p>
+      </div>
+      <a class="header-link" href="https://competitions.ffbb.com/ligues/idf" target="_blank" rel="noreferrer">
+        Source FFBB
+      </a>
+    </header>
+
+    <main class="layout">
+      <aside class="panel" aria-label="Filtres de la carte">
+        <section class="status-card" id="statusCard">
+          <strong>Chargement des données…</strong>
+          <span>Lecture de <code>data/clubs-idf.json</code></span>
+        </section>
+
+        <section class="filters">
+          <div class="filter-field">
+            <label for="searchClub">Club</label>
+            <input id="searchClub" type="search" placeholder="Rechercher un club…" />
+          </div>
+
+          <div class="filter-field">
+            <label for="niveauFilter">Niveau</label>
+            <select id="niveauFilter" multiple size="7"></select>
+            <small>Ctrl/Cmd + clic pour choisir plusieurs niveaux.</small>
+          </div>
+
+          <div class="filter-field">
+            <label for="departementFilter">Département</label>
+            <select id="departementFilter" multiple size="8"></select>
+          </div>
+
+          <div class="filter-field split">
+            <div>
+              <label for="genreFilter">Genre</label>
+              <select id="genreFilter" multiple size="2"></select>
+            </div>
+            <div>
+              <label for="categorieFilter">Catégorie</label>
+              <select id="categorieFilter" multiple size="6"></select>
+            </div>
+          </div>
+
+          <div class="filter-field">
+            <label for="competitionFilter">Championnat</label>
+            <select id="competitionFilter" multiple size="8"></select>
+          </div>
+
+          <div class="filter-field">
+            <label for="pouleFilter">Poule</label>
+            <select id="pouleFilter" multiple size="8"></select>
+          </div>
+
+          <div class="actions">
+            <button id="resetFilters" type="button">Réinitialiser</button>
+          </div>
+        </section>
+
+        <section class="legend" aria-label="Légende des niveaux">
+          <h2>Légende</h2>
+          <div><span class="dot national"></span> NM/NF</div>
+          <div><span class="dot prenat"></span> PNM/PNF/RM1/RF1</div>
+          <div><span class="dot regional"></span> RM2/RF2/RM3/RF3 et divisions régionales</div>
+          <div><span class="dot departemental"></span> Départemental</div>
+          <div><span class="dot unknown"></span> Non classé</div>
+        </section>
+      </aside>
+
+      <section class="map-wrap" aria-label="Carte">
+        <div id="map"></div>
+        <div class="counter" id="counter">0 club affiché</div>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

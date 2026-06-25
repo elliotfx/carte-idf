@@ -1,0 +1,294 @@
+:root {
+  --bg: #f4f6f8;
+  --panel: #ffffff;
+  --text: #17202a;
+  --muted: #607080;
+  --line: #dce3ea;
+  --accent: #22832a;
+  --accent-dark: #17661f;
+  --shadow: 0 14px 36px rgba(23, 32, 42, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--text);
+  background: var(--bg);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 22px 28px;
+  background: linear-gradient(120deg, #111827, #1f2937);
+  color: #fff;
+}
+
+.eyebrow {
+  margin: 0 0 5px;
+  color: #9fe0a5;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(1.45rem, 2.6vw, 2.3rem);
+}
+
+.subtitle {
+  max-width: 760px;
+  margin: 7px 0 0;
+  color: #d4dde6;
+}
+
+.header-link {
+  flex: 0 0 auto;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  padding: 10px 14px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.header-link:hover {
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.layout {
+  min-height: 0;
+  flex: 1;
+  display: grid;
+  grid-template-columns: 380px minmax(0, 1fr);
+}
+
+.panel {
+  min-height: 0;
+  overflow: auto;
+  padding: 18px;
+  background: var(--panel);
+  border-right: 1px solid var(--line);
+}
+
+.status-card {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 14px;
+  margin-bottom: 16px;
+  border-radius: 16px;
+  background: #eef8f0;
+  border: 1px solid #ccebd1;
+  color: #163d1d;
+}
+
+.status-card.error {
+  background: #fff1f1;
+  border-color: #ffd0d0;
+  color: #8d1717;
+}
+
+.status-card.warning {
+  background: #fff9e8;
+  border-color: #ffe2a9;
+  color: #805400;
+}
+
+.status-card span {
+  color: inherit;
+  font-size: 0.88rem;
+}
+
+.filters {
+  display: grid;
+  gap: 14px;
+}
+
+.filter-field {
+  display: grid;
+  gap: 7px;
+}
+
+.filter-field.split {
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+label {
+  font-weight: 750;
+  font-size: 0.88rem;
+}
+
+input,
+select,
+button {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font: inherit;
+}
+
+input,
+select {
+  padding: 10px 11px;
+  background: #fff;
+  color: var(--text);
+}
+
+select[multiple] {
+  min-height: 42px;
+}
+
+small {
+  color: var(--muted);
+}
+
+button {
+  padding: 11px 13px;
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--accent-dark);
+}
+
+.legend {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  display: grid;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.legend h2 {
+  margin: 0;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  margin-right: 8px;
+  vertical-align: -1px;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.08);
+}
+
+.national {
+  background: #e70000;
+}
+
+.prenat {
+  background: #f59e0b;
+}
+
+.regional {
+  background: #2563eb;
+}
+
+.departemental {
+  background: #6b7280;
+}
+
+.unknown {
+  background: #111827;
+}
+
+.map-wrap {
+  min-height: 0;
+  position: relative;
+}
+
+#map {
+  height: 100%;
+  min-height: 560px;
+  z-index: 1;
+}
+
+.counter {
+  position: absolute;
+  right: 18px;
+  top: 18px;
+  z-index: 500;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 10px 14px;
+  box-shadow: var(--shadow);
+  font-weight: 800;
+}
+
+.popup-title {
+  font-weight: 900;
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.popup-meta {
+  margin: 3px 0;
+  color: #465463;
+}
+
+.popup-teams {
+  margin: 9px 0 0;
+  padding-left: 18px;
+}
+
+.popup-teams li {
+  margin-bottom: 5px;
+}
+
+.leaflet-div-icon.club-marker {
+  background: transparent;
+  border: 0;
+}
+
+.marker-pin {
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  border: 3px solid #fff;
+  box-shadow: 0 5px 13px rgba(0, 0, 0, 0.28);
+}
+
+@media (max-width: 980px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .panel {
+    max-height: 48vh;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .site-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

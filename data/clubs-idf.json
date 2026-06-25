@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "generated_at": null,
+    "source": "https://competitions.ffbb.com/ligues/idf",
+    "scope": "Championnat régionaux 5x5 masculins et féminins de la Ligue Île-de-France, seniors et jeunes",
+    "note": "Aucune donnée fictive. Lancez scripts/build_data.py ou le workflow GitHub Actions pour générer les clubs."
+  },
+  "competitions": [],
+  "clubs": []
+}
