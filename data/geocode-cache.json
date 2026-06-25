@@ -1,1 +1,907 @@
-{}
+{
+  "12 cour debille, 75011 paris, france": {
+    "lat": 48.8559677,
+    "lon": 2.3795897,
+    "status": "ok"
+  },
+  "6 rue albert lapparent, 75007 paris, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "7 esplanade henri de france, 75015 paris, france": {
+    "lat": 48.8388048,
+    "lon": 2.2712769,
+    "status": "ok"
+  },
+  "63 bis rue dulong , 75017 paris, france": {
+    "lat": 48.8860568,
+    "lon": 2.3152337,
+    "status": "ok"
+  },
+  "150 rue du faubourg poissonniere, 75010 paris, france": {
+    "lat": 48.8816905,
+    "lon": 2.3498432,
+    "status": "ok"
+  },
+  "11 place dauphine, 75001 paris, france": {
+    "lat": 48.8562135,
+    "lon": 2.3424349,
+    "status": "ok"
+  },
+  "52 rue raymond losserand, 75014 paris, france": {
+    "lat": 48.8345978,
+    "lon": 2.3191061,
+    "status": "ok"
+  },
+  "14 rue georgette agutte, 75018 paris, france": {
+    "lat": 48.8955208,
+    "lon": 2.3329785,
+    "status": "ok"
+  },
+  "71 bd richard lenoir, 75011 paris, france": {
+    "lat": 48.8590227,
+    "lon": 2.3714818,
+    "status": "ok"
+  },
+  "8 avenue moderne , 75019 paris, france": {
+    "lat": 48.8838687,
+    "lon": 2.3825444,
+    "status": "ok"
+  },
+  "143 rue de bercy, 75012 paris, france": {
+    "lat": 48.8413732,
+    "lon": 2.3774791,
+    "status": "ok"
+  },
+  "15 rue lakanal, 75015 paris, france": {
+    "lat": 48.8441348,
+    "lon": 2.2949799,
+    "status": "ok"
+  },
+  "18 bd adolphe pinard, 75014 paris, france": {
+    "lat": 48.8241011,
+    "lon": 2.3062038,
+    "status": "ok"
+  },
+  "5 rue aumont, 75013 paris, france": {
+    "lat": 48.8259578,
+    "lon": 2.3614773,
+    "status": "ok"
+  },
+  "18 rue ramus, 75020 paris, france": {
+    "lat": 48.862368,
+    "lon": 2.3993836,
+    "status": "ok"
+  },
+  "97 rue d'oberkampf, 75011 paris, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "35 rue de la gaite, 75014 paris, france": {
+    "lat": 48.8390558,
+    "lon": 2.3231541,
+    "status": "ok"
+  },
+  "mda boite 27 15 passage ramey, 75018 paris, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "3 rue du capitaine ferber, 75020 paris, france": {
+    "lat": 48.8648903,
+    "lon": 2.4047278,
+    "status": "ok"
+  },
+  "81 boulevard massena, 75013 paris, france": {
+    "lat": 48.8208333,
+    "lon": 2.3682581,
+    "status": "ok"
+  },
+  "5 avenue de la porte molitor , 75016 paris, france": {
+    "lat": 48.8450762,
+    "lon": 2.2549718,
+    "status": "ok"
+  },
+  "17 av p de coubertin, 75013 paris, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 rue du cdt guilbaud, 75016 paris, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "189 rue d'aubervilliers, 75018 paris, france": {
+    "lat": 48.8968679,
+    "lon": 2.369208,
+    "status": "ok"
+  },
+  "20 rue monte cristo, 75020 paris, france": {
+    "lat": 48.8555803,
+    "lon": 2.3978821,
+    "status": "ok"
+  },
+  "79 rue du general de gaulle , 77230 dammartin-en-goele e-mail abcdammartin, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue des carrouges, 77124 cregy-les-meaux e-mail baskcregy, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place de l'hötel de ville, 77260 la ferte-sous-jouarre e-mail basketfertois, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 rue de verdun, 77170 brie-comte-robert e-mail briebasketclub, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place de la mairie, 77600 bussy-saint-georges e-mail asso, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place de verdun, 77440 lizy-sur-ourcq e-mail calizybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "parc du souvenir emile fouchard, 77500 chelles e-mail cbcchelles, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place du general de gaulle, 77380 combs-la-ville e-mail combs, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "parc des capucins, 77120 coulommiers e-mail coulommiers-brie-basket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "gymnase fontaine, 77100 meaux e-mail csmeaux, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "4 rue pierre brossolette, 77130 montereau-fault-yonne e-mail basketcsm, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "105 allee albert camus , 77350 le mee-sur-seine e-mail secretariatbasketlemee, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "44 mail le corbusier, 77185 lognes e-mail secretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place du souvenir - bp 24, 77550 moissy-cramayel e-mail moissybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "allee de l'espoir, 77330 ozoir-la-ferriere e-mail, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue de rougeau-cidex 25-boite 23, 77176 savigny-le-temple e-mail psbclub, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "3 rue des tilleuls, 77340 pontault-combault e-mail president, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "9 place de l'eglise, 77176 nandy e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "4 avenue paul doumer, 77590 bois-le-roi e-mail usboisleroibasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "mairie, 77680 roissy-en-brie e-mail gene, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue de l'ecluse, 77360 vaires-sur-marne e-mail basketvaires, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "51 rue de paris, 77700 bailly-romainvilliers e-mail clubvempcb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "mairie bld. noel marc, 78570 andresy e-mail info, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "mairie, 78330 fontenay-le-fleury e-mail asff, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "15 rue de lorraine, 78200 mantes-la-jolie e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "4 route de trappes, 78180 montigny-le-bretonneux e-mail correspondance, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "mairie, 78590 noisy-le-roi e-mail basketnoisybailly, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue langlois, 78990 elancourt e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "17 rue du limousin, 78310 maurepas e-mail secretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "13, rue guy de maupassant, 78500 sartrouville e-mail b, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "stade aime bergeal, 78711 mantes-la-ville e-mail hassna, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 ter avenue foch, 78290 croissy-sur-seine e-mail correspondant, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "9 avenue des droits de l'homme, 78260 acheres e-mail clocabasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "50 bis rue remilly, 78000 versailles e-mail secretaire, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "4 allee saint exupery, 78190 trappes e-mail secretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "14, rue ambroise croizat, 78280 guyancourt e-mail gbb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "mairie de plaisir, 78370 plaisir e-mail plaisirbasketclub, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "129 rue de la maladrerie, 78300 poissy e-mail poissy, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "71 rue d'angiviller, 78120 rambouillet e-mail rsb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "23 rue gabriel peri, 78800 houilles e-mail secretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "22 rue maurice ravel, 78190 trappes e-mail tbcsqy, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "9 rue armagis, 78100 saint-germain-en-laye e-mail tuesgbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "29, chemin du clos courche, 78160 marly-le-roi e-mail usmr-basket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "82, rue des merlettes, 78110 vesinet e-mail usvbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "104 route du pave de meudon, 78220 viroflay e-mail contactbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "146 rue robert leuthreau, 91600 savigny-sur-orge e-mail alcard-famille, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "206 rue pierre et marie curie, 91000 evry e-mail asevrybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "allee du docteur bourgeois, 91150 etampes e-mail basketclubetampes, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "mairie de limours, 91470 limours e-mail correspondant, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "1001 place du 8 mai 1945, 91380 chilly-mazarin e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "12 rue j-j. rousseau, 91220 bretigny-sur-orge e-mail idf, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "13 route de versailles, 91080 courcouronnes e-mail cocbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "6 allee de la ferme guillaume, 91210 draveil e-mail thierry, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "e.s.massy basketball, 91300 massy e-mail president, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "gymnase p.de coubertin, 91230 montgeron e-mail claude, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place de la republique, 91170 viry-chatillon e-mail e, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "60 rue charles de gaulle, 91330 yerres e-mail esybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "cdeha, 91290 arpajon e-mail arpajonbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue ernest pillon, 91310 linas e-mail linasbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "3 parc des tourelles, 91530 saint-cheron e-mail scbb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "7 rue de monthlery, 91240 saint-michel-sur-orge e-mail correspondance, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue de la mairie, 91150 morigny-champigny e-mail teambasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "9 boulevard grande ceinture, 91120 palaiseau e-mail correspondant, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "60 rue albert remy, 91130 ris-orangis e-mail tdurand, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "1 rue du minotaure, 91350 grigny e-mail grignybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place de la mairie, 91570 bievres e-mail bernard, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "63 rue de villiers, 92200 neuilly-sur-seine e-mail gabrielarbadji, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "12 avenue foch, 92250 garenne-colombes e-mail aegcbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "10 rue liot, 92100 boulogne-billancourt e-mail acbb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "164 bis avenue kennedy, 92160 antony e-mail antonybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "10 place du chateau sainte barbe, 92260 fontenay-aux-roses e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "8 avenue de trivaux, 92190 meudon e-mail correspondance, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "20 rue des clos st marcel, 92330 sceaux e-mail asasbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "29 rue de la concorde, 92600 asnieres-sur-seine e-mail asnieresbb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "35 avenue clement perriere, 92320 chatillon e-mail ascbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "3 allee robert debre, 92350 plessis-robinson e-mail secretariatbcpr, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "39, avenue de stalingrad, 92700 colombes e-mail fabien, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "place hunebelle, 92140 clamart e-mail idf, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "31 rue d'alsace, 92110 clichy e-mail clichybasketacademy, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "37 rue des blains, 92220 bagneux e-mail basket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "17 rue de l'industrie, 92400 courbevoie e-mail cs, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "hall des sports ile puteaux, 92800 puteaux e-mail csmpbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "105 avenue du general leclerc, 92340 bourg-la-reine e-mail ebrbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "15 rue marcel lamour, 92230 gennevilliers e-mail gennevilliersbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "166 avenue de verdun, bat 1, 92130 issy-les-moulineaux e-mail ibc, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "5-7 rue du grand champ, 92000 nanterre e-mail siege, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 avenue gambetta, , 92400 courbevoie e-mail groyet, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "141 rue danton, 92300 levallois-perret e-mail lscbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 rue charles peguy, 92700 colombes e-mail lsoc, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=2+RUE+CHARLES+PEGUY%2C+92700+COLOMBES+E-mail+lsoc%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "1 rue genevieve couturier, 92500 rueil-malmaison e-mail racbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=1+RUE+GENEVIEVE+COUTURIER%2C+92500+RUEIL-MALMAISON+E-mail+racbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "12 rue larmeroux, 92170 vanves e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=12+RUE+LARMEROUX%2C+92170+VANVES+E-mail+contact%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "107 rue maurice arnoux, 92120 montrouge e-mail smm, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=107+RUE+MAURICE+ARNOUX%2C+92120+MONTROUGE+E-mail+smm%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "65 bis rue gambetta, 92150 suresnes e-mail cdemaegtbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=65+BIS+RUE+GAMBETTA%2C+92150+SURESNES+E-mail+cdemaegtbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "33 quai carnot, 92210 saint-cloud e-mail saintcloudbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=33+QUAI+CARNOT%2C+92210+SAINT-CLOUD+E-mail+saintcloudbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "3 place du 14 juillet, 92240 malakoff e-mail spartiatesbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=3+PLACE+DU+14+JUILLET%2C+92240+MALAKOFF+E-mail+spartiatesbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "15 chemin des closeaux, 92410 ville-d'avray e-mail valdeseinebasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=15+CHEMIN+DES+CLOSEAUX%2C+92410+VILLE-D%27AVRAY+E-mail+valdeseinebasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "5 rue des loriettes, 93170 bagnolet e-mail alsacedebagnolet, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=5+RUE+DES+LORIETTES%2C+93170+BAGNOLET+E-mail+alsacedebagnolet%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "19 rue de paris , 93380 pierrefitte-sur-seine e-mail asp, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=19+Rue+de+Paris+%2C+93380+PIERREFITTE-SUR-SEINE+E-mail+asp%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "04 avenue marx dormoy, 93140 bondy e-mail asbondybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "180 avenue andre karman, 93300 aubervilliers e-mail aa-basket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "18 rue baudin, 93130 noisy-le-sec e-mail secretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "3 place francois mitterrand, 93190 livry-gargan e-mail bblivrygargan, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "34 rue suzanne masson, 93120 courneuve e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "3 avenue de l'europe , 93420 villepinte e-mail bcvillepinte, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 rue de verdun, 93160 noisy-le-grand e-mail csnb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "30 avenue marcel cachin, 93240 stains e-mail essbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "33 rue de la cote des chenes, 93110 rosny-sous-bois e-mail jarosny, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "1 place francois mitterrand, 93330 neuilly-sur-marne e-mail nsmbb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "77 avenue de la division leclerc, 93500 pantin e-mail jbraveleau, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 boulevard anatole france, 93200 saint-denis e-mail sdusbasketball, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "39 rue raymond lefebvre, 93170 bagnolet e-mail contact, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "18 boulevard de l'hotel de ville, 93290 tremblay-en-france e-mail secretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "20 rue louis delplace, 93700 drancy e-mail usb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=20+RUE+LOUIS+DELPLACE%2C+93700+DRANCY+E-mail+usb%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "2 place du general de gaulle, 93220 gagny e-mail usmg, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=2+PLACE+DU+GENERAL+DE+GAULLE%2C+93220+GAGNY+E-mail+usmg%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "3 ter rue auguste daix, 94260 fresnes e-mail pok, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=3+TER+RUE+AUGUSTE+DAIX%2C+94260+FRESNES+E-mail+pok%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "11 avenue georges duhamel, 94000 creteil e-mail yvan, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=11+AVENUE+GEORGES+DUHAMEL%2C+94000+CRETEIL+E-mail+yvan%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "12 rue georges gaume, 94700 maisons-alfort e-mail zambe, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=12+RUE+GEORGES+GAUME%2C+94700+MAISONS-ALFORT+E-mail+zambe%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "62 quai d'artois, 94170 perreux-sur-marne e-mail yvonrosso, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=62+QUAI+D%27ARTOIS%2C+94170+PERREUX-SUR-MARNE+E-mail+yvonrosso%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "as orly section basket, 94310 orly e-mail asobasketball, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=AS+ORLY+SECTION+BASKET%2C+94310+ORLY+E-mail+asobasketball%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "53 bis rue de fontenay, 94300 vincennes e-mail bacvincennes, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=53+BIS+RUE+DE+FONTENAY%2C+94300+VINCENNES+E-mail+bacvincennes%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "23 rue de paris, 94340 joinville-le-pont e-mail basketclubjoinville, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=23+RUE+DE+PARIS%2C+94340+JOINVILLE-LE-PONT+E-mail+basketclubjoinville%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "7 boulevard leon revillon, 94470 boissy-saint-leger e-mail boissy, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=7+BOULEVARD+LEON+REVILLON%2C+94470+BOISSY-SAINT-LEGER+E-mail+boissy%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "181 boulevard pasteur d1, 94360 bry-sur-marne e-mail j, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=181+BOULEVARD+PASTEUR+D1%2C+94360+BRY-SUR-MARNE+E-mail+j%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "42 avenue du general de gaulle, 94240 hay-les-roses e-mail calhrbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=42+AVENUE+DU+GENERAL+DE+GAULLE%2C+94240+HAY-LES-ROSES+E-mail+calhrbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "2 rue romain gary, 94320 thiais e-mail ca, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=2+RUE+ROMAIN+GARY%2C+94320+THIAIS+E-mail+ca%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "17 bis rue pierre brossolette, 94110 arcueil e-mail infocosma, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=17+BIS+RUE+PIERRE+BROSSOLETTE%2C+94110+ARCUEIL+E-mail+infocosma%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "4 rue charles beauvais, 94380 bonneuil-sur-marne e-mail shaheddarvish, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=4+RUE+CHARLES+BEAUVAIS%2C+94380+BONNEUIL-SUR-MARNE+E-mail+shaheddarvish%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "17-19 allee du coteaux, 94400 vitry-sur-seine e-mail esvbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=17-19+ALLEE+DU+COTEAUX%2C+94400+VITRY-SUR-SEINE+E-mail+esvbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "4 rue general leclerc, 94520 mandres-les-roses e-mail gfcmbask, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=4+RUE+GENERAL+LECLERC%2C+94520+MANDRES-LES-ROSES+E-mail+gfcmbask%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "31 rue du commandant mouchotte, 94160 saint-mande e-mail llsm, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=31+rue+du+commandant+MOUCHOTTE%2C+94160+SAINT-MANDE+E-mail+llsm%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "2 rue jean monnet, 94130 nogent-sur-marne e-mail correspondant, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=2+RUE+JEAN+MONNET%2C+94130+NOGENT-SUR-MARNE+E-mail+correspondant%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "9 avenue de la fontaine, 94500 champigny-sur-marne e-mail lgaduel, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=9+AVENUE+DE+LA+FONTAINE%2C+94500+CHAMPIGNY-SUR-MARNE+E-mail+lgaduel%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "2 rue des halliers, 94150 rungis e-mail rungisbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=2+RUE+DES+HALLIERS%2C+94150+RUNGIS+E-mail+rungisbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "16 avenue jean jaures, 94220 charenton-le-pont e-mail gestionnaire, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=16+AVENUE+JEAN+JAURES%2C+94220+CHARENTON-LE-PONT+E-mail+gestionnaire%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "rue de rome, 94140 alfortville e-mail usabasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=RUE+DE+ROME%2C+94140+ALFORTVILLE+E-mail+usabasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "44 avenue karl marx, 94800 villejuif e-mail usvb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=44+AVENUE+KARL+MARX%2C+94800+VILLEJUIF+E-mail+usvb%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "28 avenue henri barbusse, 94200 ivry-sur-seine e-mail usivry, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=28+AVENUE+HENRI+BARBUSSE%2C+94200+IVRY-SUR-SEINE+E-mail+usivry%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "5 rue estienne d'orves, 94000 creteil e-mail uscreteilbasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=5+RUE+ESTIENNE+D%27ORVES%2C+94000+CRETEIL+E-mail+uscreteilbasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "8 av du nord, 94100 saint-maur-des-fosses e-mail vgabasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=8+AV+DU+NORD%2C+94100+SAINT-MAUR-DES-FOSSES+E-mail+vgabasket%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "3 rue de la resistance, 95200 sarcelles e-mail secretaire, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=3+RUE+DE+LA+RESISTANCE%2C+95200+SARCELLES+E-mail+secretaire%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "17 rue du general de gaulle , 95430 auvers-sur-oise e-mail auversbasketclub, france": {
+    "lat": null,
+    "lon": null,
+    "status": "error: 429 Client Error: Too many requests for url: https://nominatim.openstreetmap.org/search?q=17+rue+du+G%C3%A9n%C3%A9ral+de+Gaulle+%2C+95430+AUVERS-SUR-OISE+E-mail+auversbasketclub%2C+France&format=jsonv2&limit=1&countrycodes=fr"
+  },
+  "11 rue de la station , 95130 franconville e-mail bcfpb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "100 rue louis savoie, 95120 ermont e-mail bcepresident, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "19 rue colette, 95150 taverny e-mail basketclubtavernymontigny, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "23 rue des cordonniers, 95570 bouffemont e-mail correspondantbac, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "6 passage du lycee, 95300 pontoise e-mail sophie, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "6 bis avenue des diablots, 95320 saint-leu-la-foret e-mail correspondant, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "rue du commerce, 95610 eragny e-mail eragny, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "1 rue malcom x, 95190 goussainville e-mail evobasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "allee de la pommeraie, 95410 groslay e-mail egb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "43 rue du generale de gaulle, 95220 herblay e-mail herblaybasket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "27 avenue anna de noailles, 95200 sarcelles e-mail pierreh, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "12 rue des fauvettes, 95170 deuil-la-barre e-mail presidentmbb, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "2 bd de l'entente, 95210 saint-gratien e-mail ossgsecretariat, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "21 rue de la mairie, 95560 montsoult e-mail basket, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  },
+  "37 rue f de pressense, 95870 bezons e-mail dirigeants, france": {
+    "lat": null,
+    "lon": null,
+    "status": "not_found"
+  }
+}
